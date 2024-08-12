@@ -3,9 +3,9 @@
 Un catálogo curado de herramientas de código abierto y otros recursos interesantes para aumentar la productividad y la calidad de la investigación científica.
 
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/AntonioCardenas/DeSci/blob/master/README.md)
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/jonatasemidio/AntonioCardenas/DeSci/blob/master/README.es.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/AntonioCardenas/DeSci/blob/master/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/AntonioCardenas/DeSci/blob/main/README.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/AntonioCardenas/DeSci/blob/main/README.es.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/AntonioCardenas/DeSci/blob/main/README.pt-br.md)
 
 
 - [Herramientas](#open-source)
